@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DyenTask/static/css/main.c7e96c04.css",
+    "main.js": "/DyenTask/static/js/main.3527d623.js",
+    "static/js/787.b0e1b3f4.chunk.js": "/DyenTask/static/js/787.b0e1b3f4.chunk.js",
+    "index.html": "/DyenTask/index.html",
+    "main.c7e96c04.css.map": "/DyenTask/static/css/main.c7e96c04.css.map",
+    "main.3527d623.js.map": "/DyenTask/static/js/main.3527d623.js.map",
+    "787.b0e1b3f4.chunk.js.map": "/DyenTask/static/js/787.b0e1b3f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7e96c04.css",
+    "static/js/main.3527d623.js"
+  ]
+}
