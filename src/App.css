@@ -1,0 +1,107 @@
+.font-f {
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.hp {
+
+  color: rgba(0, 0, 0, 0.836);
+}
+
+
+.cf{
+  padding: 10px;
+  background-color: rgb(18, 129, 3);
+ color: rgb(242, 245, 248);
+}
+
+
+.bc{
+  
+  padding: 1.5%;
+  padding-left: 7%;
+  padding-right: 7%;
+ background-color: rgb(18, 129, 3);
+ color: rgb(242, 245, 248);
+ text-decoration: none;
+ 
+}
+
+a:hover {
+  color: rgb(242, 245, 248);
+  background-color: darkgreen;
+  text-decoration: none;
+  
+}
+
+.dl{
+ margin-top: 5%;
+   margin-bottom: 5%;
+
+  
+}
+
+.card-deck{
+
+  gap: 20px; ;
+}
+
+.d-margin{
+ margin-top: 50px;
+ margin-bottom: 50px;
+}
+
+.deck{
+    display: flex;
+    flex-wrap: wrap;
+  gap: 0px; ;
+}
+
+
+.gs{
+  display: grid;
+gap: 10px;
+}
+
+
+.lft{
+ border: 6px solid black;
+ color: solid black;
+}
+
+.adds{
+ border-radius: 3%;
+ border: 20px;
+ background-color: rgba(242, 243, 232, 0.911);
+}
+
+.vid{
+ display: grid;
+ height:  100%;
+ width: 100%;
+ }
+
+
+.m-heading {
+
+  color: chartreuse;
+  font-size: 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.underline {
+background-color: black;
+ height: 2px;
+  width: auto;
+  
+}
+
+.L-text {
+  color: rgb(18, 129, 3);
+  text-decoration: none;
+  font-size: larger;
+  font-weight: bold;
+  }
+
+  
+
